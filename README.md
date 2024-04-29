@@ -1,6 +1,6 @@
 # Blood Alcohol Content (BAC) Calculator
 
-This is a simple C program that calculates the Blood Alcohol Content (BAC) based on the number of drinks consumed, body weight, gender, and time elapsed since the last drink.
+This is a simple C program that calculates the Blood Alcohol Content (BAC) based on the number of drinks consumed, body weight, sex, and time elapsed since the last drink.
 
 ## Overview
 
